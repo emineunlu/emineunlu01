@@ -12,7 +12,7 @@
   <description>
       Burcunuz hakkında her şeyi öğrenin.
   </description>
-
+<platform name="android" />
 
     
   <icon src="icon.png" />
