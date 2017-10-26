@@ -7,15 +7,13 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Meyve Sözlüğü</name>
+  <name>Burç Sözlüğü</name>
 
   <description>
-      İlkokul öğrencileri için oluşturduğumuz bu nefis meyveli sözlük...
+      Burcunuz hakkında her şeyi öğrenin.
   </description>
 
-  <author href="http://www.madran.net" email="orcunmadran@gmail.com">
-      Hardeep Shoker
-  </author>
+
     
   <icon src="icon.png" />
 
